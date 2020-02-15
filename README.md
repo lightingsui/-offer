@@ -7,4 +7,5 @@
 + [二维数组中的查找](https://github.com/lightingsui/-offer/blob/master/src/ArrayFind.java )
 + [替换空格](https://github.com/lightingsui/-offer/blob/master/src/ReplaceSpace.java)
 + [从尾到头打印链表](https://github.com/lightingsui/-offer/blob/master/src/ReverseLinkList.java)
++ [重建二叉树](https://github.com/lightingsui/-offer/blob/master/src/RebuildBinaryTree.java)
 
